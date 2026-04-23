@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1024" height="902" alt="DE366786-9722-418D-BFC5-5EA7A5C2670F" src="https://github.com/user-attachments/assets/43a11928-0421-43a3-8706-288c6228803b" width="150" style="border-radius:50%" />
+  <img src="https://github.com/user-attachments/assets/43a11928-0421-43a3-8706-288c6228803b" width="100" />
 </p>
 
 <h1 align="center">Hi, I'm Prachi 👋</h1>
@@ -19,15 +19,10 @@
 ---
 
 ## 🛠️ Tech Stack
-- 💻 Languages: Java, C, JavaScript 
-- 📚 Concepts: Data Structures & Algorithms  
-- 🌐 Web: HTML, CSS, React
-- 🛠️ Tools: Git, GitHub   
 
----
-
-## 📫 Connect With Me
-- 📧 Email: prachibhosale200106@gmail.com  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,js,react,html,css,git,github" />
+</p>
 
 ---
 
