@@ -27,7 +27,7 @@
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: your-email@example.com  
+- 📧 Email: prachibhosale200106@gmail.com  
 
 ---
 
