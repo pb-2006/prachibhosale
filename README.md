@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Prachi!</h1>
 
 <p align="center">
-  🎓 B.Tech CSE Student | 💻 Aspiring Developer | 🚀 Learning & Building
+  B.Tech CSE Student | Aspiring Developer | Learning & Building
 </p>
 
 ---
